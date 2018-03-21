@@ -6,7 +6,7 @@ In terms of my specific project, my story will be a parody style story based aro
 
 As the story progresses the characters become increasingly strange and their motives bizarre. It's really rather nonsensical.
 
-Now with an extra spooky, super secret (but not really at all) ending, wooooooooooo.
+Now with an extra spooky, super secret (but not really at all) ending!
 
 Chapter 4 is the alternate ending for chapter 3, contained in the ALTERNATIVE ENDING branch. It isn't present in any of the master branches folders.
 
