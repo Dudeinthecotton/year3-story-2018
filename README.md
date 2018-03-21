@@ -10,6 +10,8 @@ Now with an extra spooky, super secret (but not really at all) ending!
 
 Chapter 4 is the alternate ending for chapter 3, contained in the ALTERNATIVE ENDING branch. It isn't present in any of the master branches folders.
 
+https://dudeinthecotton.github.io/year3-story-2018/
+
 [Chapter 1](https://github.com/Dudeinthecotton/year3-story-2018/blob/master/Chapters/Chapter%201.html)
 
 [Chapter 2](https://github.com/Dudeinthecotton/year3-story-2018/blob/master/Chapters/Chapter%202.html)
