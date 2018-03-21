@@ -1,7 +1,9 @@
-# year3-story-2018
-repository to fork for the 'git story' assessment
+# CiaranOMearaGitStory
 
-for this repo, to use as a starting point for your story
-(and don't forget to complete your assessment by making a 'pull request' back to me...)
+This is a Story made using Git, used to display one's ability to use the service for project management.
 
-.. matt smith ...
+In terms of my specific project, my story will be a parody style story based around the matrix and other films.
+
+As the story progresses the characters become increasingly strange and their motives bizarre. It's really rather nonsensical.
+
+Now with an extra spooky, super secret ending, wooooooooooo.
